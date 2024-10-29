@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360092788578",
+    "project_id": "parrasdev-3723b",
+    "storage_bucket": "parrasdev-3723b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360092788578:android:2d3baf93e70916e845ae3b",
+        "android_client_info": {
+          "package_name": "com.example.parrasdevexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPievz0h-_lKRsCxuAqbsZrBMFb5u4AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
